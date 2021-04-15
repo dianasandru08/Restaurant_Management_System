@@ -1,0 +1,10 @@
+        BON FISCAL 
+ 
+    Comanda cu numarul: 3
+    Ora: 21
+    Data: 15-09-2019
+    Masa: 5
+    Produse comandate: 
+        apa           8.0
+        expresso           18.0
+    TOTAL: 26.0

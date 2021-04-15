@@ -1,0 +1,10 @@
+        BON FISCAL 
+ 
+    Comanda cu numarul: 1
+    Ora: 21
+    Data: 12-09-2009
+    Masa: 2
+    Produse comandate: 
+        apa           4.0
+        limonada           11.0
+    TOTAL: 15.0
